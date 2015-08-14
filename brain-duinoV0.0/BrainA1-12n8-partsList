@@ -1,0 +1,148 @@
+Partlist
+
+Exported from BrainA1-12n8.sch at 11/9/14 6:54 PM
+
+EAGLE Version 7.1.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value                   Device         Package    Library        Sheet
+
+AD                               PINHD-1X6      1X06       pinhead        1
+C1       470pF                   C-EUC0805      C0805      rcl            1
+C2       0.1µF                   C-EUC0805      C0805      rcl            1
+C3       0.1µF                   C-EUC0805      C0805      rcl            1
+C4       0.1µF                   C-EUC0805      C0805      rcl            1
+C5       470pF                   C-EUC0805      C0805      rcl            1
+C6       2.7nF                   C-EUC0805      C0805      rcl            1
+C7       10nF                    C-EUC0805      C0805      rcl            1
+C8       10µF                    C-USC0805      C0805      rcl            1
+C9       10µF                    C-USC0805      C0805      rcl            1
+C10      0.1µF                   C-EUC0805      C0805      rcl            1
+C11      1µF                     C-EUC0805      C0805      rcl            1
+C12      0.1µF                   C-EUC0805      C0805      rcl            1
+C13      15nF                    C-EUC0805      C0805      rcl            1
+C14      10µF                    C-EUC0805      C0805      rcl            1
+C15      1µF                     C-EUC0805      C0805      rcl            1
+C16      1nF                     C-EUC0805      C0805      rcl            1
+C17      1nF                     C-EUC0805      C0805      rcl            1
+C18      1nF                     C-EUC0805      C0805      rcl            1
+C19      1nF                     C-EUC0805      C0805      rcl            1
+C20      10µF                    C-EUC0805      C0805      rcl            1
+C21      0.1µF                   C-EUC0805      C0805      rcl            1
+C22      0.1µF                   C-EUC0805      C0805      rcl            1
+C23      0.1µF                   C-EUC0805      C0805      rcl            1
+C24      470pF                   C-EUC0805      C0805      rcl            1
+C25      10µF                    C-EUC0805      C0805      rcl            1
+C26      10µF                    C-EUC0805      C0805      rcl            1
+C27      0.1µF                   C-EUC0805      C0805      rcl            1
+C28      470pF                   C-EUC0805      C0805      rcl            1
+C29      470pF                   C-EUC0805      C0805      rcl            1
+C30      470pF                   C-EUC0805      C0805      rcl            1
+C31      0.1µF                   C-EUC0805      C0805      rcl            1
+C32      0.01µF                  C-EUC0805      C0805      rcl            1
+C33      47pF                    C-EUC0805      C0805      rcl            1
+C34      47pF                    C-EUC0805      C0805      rcl            1
+C35      47pF                    C-EUC0805      C0805      rcl            1
+C36      47pF                    C-EUC0805      C0805      rcl            1
+C37      10µF                    C-EUC0805      C0805      rcl            1
+C38      0.1µF                   C-EUC0805      C0805      rcl            1
+C39      10µF                    C-EUC0805      C0805      rcl            1
+C40      0.1µF                   C-EUC0805      C0805      rcl            1
+C41      0.1µF                   C-EUC0805      C0805      rcl            1
+C42      0.1µF                   C-EUC0805      C0805      rcl            1
+C43      0.1µF                   C-EUC0805      C0805      rcl            1
+C44      15nF                    C-EUC0805      C0805      rcl            1
+C45      2.7nF                   C-EUC0805      C0805      rcl            1
+C46      1µF                     C-EUC0805      C0805      rcl            1
+C47      1µF                     C-EUC0805      C0805      rcl            1
+C48      0.1µF                   C-EUC0805      C0805      rcl            1
+C49      0.1µF                   C-EUC0805      C0805      rcl            1
+C50      0.1µF                   C-EUC0805      C0805      rcl            1
+C51      0.1µF                   C-EUC0805      C0805      rcl            1
+D1       UDZV5.1B                DIODE-SOD110-R SOD110-R   diode          1
+D2       RB160M-30               PD3S160        POWERDI323 diode          1
+D3       UDZV5.1B                DIODE-SOD110-R SOD110-R   diode          1
+GND                              PINHD-1X1      1X01       pinhead        1
+IC1      OP2177ARMZ              AD8656RM       MSOP08     analog-devices 1
+IC2      OPA2111KP               OPA2111P       DIL08      linear         1
+IC3      OP4177ARZ               TL064D         SO14       linear         1
+IC4      OPA2111KP               OPA2111P       DIL08      linear         1
+IC5      TLC555CDR               LM555D         SO08       linear         1
+IC6      TAR5SB50                MIC5219XX      SOT23-5    v-reg-micrel   1
+IC7      LT1761ES5-5             MIC5219XX      SOT23-5    v-reg-micrel   1
+ICSP                             JP3Q           JP3Q       jumper         1
+IOH                              PINHD-1X10     1X10       pinhead        1
+IOL                              PINHD-1X8      1X08       pinhead        1
+JP2                              PINHD-1X1      1X01       pinhead        1
+JP3                              PINHD-1X1      1X01       pinhead        1
+K1       AQY221R2VY              AQY221R2V      SSOP4      relay          1
+K2       AQY221R2VY              AQY221R2V      SSOP4      relay          1
+LR-IN1                           PINHD-2X3/90   2X03/90    pinhead        1
+POWER                            PINHD-1X8      1X08       pinhead        1
+R1       1M                      R-EU_R0805     R0805      rcl            1
+R2       1M                      R-EU_R0805     R0805      rcl            1
+R3       1M                      R-EU_R0805     R0805      rcl            1
+R4       1M                      R-EU_R0805     R0805      rcl            1
+R5       200                     R-EU_R0805     R0805      rcl            1
+R6       200                     R-EU_R0805     R0805      rcl            1
+R7       1M                      R-EU_R0805     R0805      rcl            1
+R8       1M                      R-EU_R0805     R0805      rcl            1
+R9       4.7K                    R-EU_R0805     R0805      rcl            1
+R10      4.7K                    R-EU_R0805     R0805      rcl            1
+R11      4.7K                    R-EU_R0805     R0805      rcl            1
+R12      4.7K                    R-EU_R0805     R0805      rcl            1
+R13      4.7K                    R-EU_R0805     R0805      rcl            1
+R14      4.7K                    R-EU_R0805     R0805      rcl            1
+R15      4.02K                   R-EU_R0805     R0805      rcl            1
+R16      1M                      R-EU_R0805     R0805      rcl            1
+R17      4.02K                   R-EU_R0805     R0805      rcl            1
+R18      470                     R-EU_R0805     R0805      rcl            1
+R19      1M                      R-EU_R0805     R0805      rcl            1
+R20      470                     R-EU_R0805     R0805      rcl            1
+R21      470                     R-EU_R0805     R0805      rcl            1
+R22      1K                      R-EU_R0805     R0805      rcl            1
+R23      100K                    R-EU_R0805     R0805      rcl            1
+R24      100K                    R-EU_R0805     R0805      rcl            1
+R25      100K                    R-EU_R0805     R0805      rcl            1
+R26      100K                    R-EU_R0805     R0805      rcl            1
+R27      2K                      R-EU_R0805     R0805      rcl            1
+R28      2K                      R-EU_R0805     R0805      rcl            1
+R29      2.15K                   R-EU_R0805     R0805      rcl            1
+R30      LED                     R-EU_R0402     R0402      rcl            1
+R31      1K                      R-EU_R0402     R0402      rcl            1
+R32      1K                      R-EU_R0402     R0402      rcl            1
+R33      1K                      R-EU_R0805     R0805      rcl            1
+R34      10K                     R-TRIMM5X      RTRIM5X    resistor       1
+R35      10K                     R-TRIMM5X      RTRIM5X    resistor       1
+R36      1K                      R-EU_R0805     R0805      rcl            1
+R37      100K                    R-EU_R0805     R0805      rcl            1
+R38      470                     R-EU_R0805     R0805      rcl            1
+R39      4.3K                    R-EU_R0805     R0805      rcl            1
+R40      1K                      R-EU_R0402     R0402      rcl            1
+R41      LED                     R-EU_R0402     R0402      rcl            1
+RXD                              PINHD-1X1      1X01       pinhead        1
+S2       9450-2                  9450-2         9450-2     switch-misc    1
+SJ1                              SJ2W           SJ_2       jumper         1
+SJ2                              SJ2W           SJ_2       jumper         1
+SJ3                              SJ2W           SJ_2       jumper         1
+SJ4                              SJ2W           SJ_2       jumper         1
+SJ5                              SJ2W           SJ_2       jumper         1
+SJ6                              SJ2W           SJ_2       jumper         1
+SJ7                              SJ2W           SJ_2       jumper         1
+SJ8                              SJ2W           SJ_2       jumper         1
+SJ9                              SJ2W           SJ_2       jumper         1
+SJ10                             SJ             SJ         jumper         1
+SJ11                             SJ             SJ         jumper         1
+SJ12                             SJ             SJ         jumper         1
+SJ13                             SJ             SJ         jumper         1
+SJ14                             SJ             SJ         jumper         1
+SJ15                             SJ             SJ         jumper         1
+SJ16                             SJ             SJ         jumper         1
+TXD                              PINHD-1X1      1X01       pinhead        1
+U$1      AD8422ARMZ              AD8220         AD8220     MKH            1
+U$2      AD8422ARMZ              AD8220         AD8220     MKH            1
+U$4      MAX7480ESA+             MAX7480        MAX7480    MKH            1
+U$5      MAX7480ESA+             MAX7480        MAX7480    MKH            1
+U$7      DC-DC +-12V, RB-0512D/P RB-0515D       RB-0515D   MKH            1
+VCC                              PINHD-1X1      1X01       pinhead        1
