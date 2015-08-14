@@ -5,7 +5,7 @@ AD7173-Arduino-interrupt-test-with-IBVA
 
 AD7173 SPI with Arduino interrupt test use with IBVA application
 need to use LIB from
-https://github.com/openbrainhacking/AD7173
+https://github.com/brain-duino/AD7173
 
 
 “AD7173ArduinoInterruptMk2.ino” is test interrupt
