@@ -17,3 +17,5 @@ https://github.com/openbrainhacking/AD7173
 
 =========================================
 “char6BSLED1_analogIN_4chBrain_intwithClock_UNO_Bluetooth_2.ino” is for use Arduino AD input. can use for 2 ch mode and 4 ch mode.
+
+test
